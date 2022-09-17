@@ -1,5 +1,5 @@
 # MSRC Case 1
- The monkey workers over at Microsoft seemingly closed my MSRC account, so I will drop this case no matter what. Have fun with whatever you use this for!
+ Microsoft seemingly closed my MSRC account, and as such I will be releasing this case publicly.
  
 # Case Report
  This write-up is formatted in Zero Day Initiative's report format.
